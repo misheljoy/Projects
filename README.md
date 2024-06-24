@@ -1,4 +1,4 @@
-Hi, I am Mishel Joy.
+
 
 * SQL Expertise: Skilled in SQL for efficient data querying and manipulation, enabling streamlined data extraction and analysis.
 
